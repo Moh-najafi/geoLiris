@@ -1,6 +1,7 @@
 # geoLiris
 
-This is demo repo for geoliris in Spring 2024.
+This is demo repo for geoliris in Spring 2024 at LIRIS.
+add new line.
 
 This is new line here.
 
